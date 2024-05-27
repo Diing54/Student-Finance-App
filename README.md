@@ -1,1 +1,1 @@
-# Student-Finance-App
+# Student Financial Assistance Application
